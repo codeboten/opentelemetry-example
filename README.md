@@ -1,6 +1,6 @@
 # opentelemetry-example
 
-Just some code I'm playing around to take opentelemetry's go library for a test drive. Most of the code here was published in this [Getting Started](https://lightstep.com/blog/getting-started-with-opentelemetry-alphas-golang/) guide, with some minor changes to accomodate for the changes in the library.
+Just some code I'm playing around with to take opentelemetry's go library for a test drive. Most of the code here was published in this [Getting Started](https://lightstep.com/blog/getting-started-with-opentelemetry-alphas-golang/) guide, with some minor changes to accomodate for the changes in the library.
 
 ##### Dependencies
 
